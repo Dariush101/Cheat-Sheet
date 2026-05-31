@@ -1,0 +1,68 @@
+Git Config is how you set up Git on your computer.
+
+
+It tells Git important information like:
+
+  Your name
+
+  Your email
+
+  Your default branch name
+
+  Your code editor
+
+
+The first thing beginners usually set is:
+
+  user.name
+
+  user.email
+
+
+
+Git needs your name and email because every time you make a commit, Git labels it with who made the change.
+
+  A commit is like a saved checkpoint in your project.
+
+  So when you save your code, Git can show:
+
+    Andrew made this change.
+
+This is important when working alone, but it is even more important when working with other people.
+
+
+  git config --global user.name "your_name"
+
+  git config --global user.email "you@example.com"
+
+To check name and email of your git we use this:
+
+  git config --list
+
+
+Git Config has different levels.
+
+That means Git settings can apply to:
+
+  Local: Only applies to the current project                  git config user.name "Project Name"
+  
+  Global: Applies to all your projects                        git config --global user.name "Andrew"
+  
+  System: Applies to every user on the computer:              git config --system user.name "System Name"
+
+Different levels let you choose how wide the setting should apply.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
