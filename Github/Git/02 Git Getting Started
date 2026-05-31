@@ -1,0 +1,31 @@
+Git can keep track of changes in our project.
+
+Git can remember:
+
+  what files changed
+
+  when they changed
+  
+  who changed them
+  
+  old versions of the project
+
+
+
+Create a project folder. Make a new folder called myproject.
+
+  mkdir myproject
+
+Go inside the folder. Move into the myproject folder.
+
+  cd myproject
+
+Start Git in that folder. Turn this folder into a Git repository.
+
+  git init
+
+  After this, Git creates a hidden folder called:
+
+    .git
+
+    That hidden folder stores the project’s Git history.
