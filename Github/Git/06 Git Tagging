@@ -1,0 +1,26 @@
+A tag is a label you put on an important commit.
+
+Tags are often used for versions like:
+  
+  v1.0
+  
+  v2.0
+  
+  v3.0
+
+We use tags to mark important points in a project.
+
+  “This commit is Version 1.0 of my project.”
+
+
+Create a simple tag
+
+  git tag v1.0
+
+Create a better tag with a message
+
+  git tag -a v1.0 -m "Version 1.0 release"
+
+To see all of the tags is:
+
+  git tag
