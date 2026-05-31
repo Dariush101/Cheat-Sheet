@@ -1,0 +1,163 @@
+A work item is one piece of work that needs to be tracked.
+
+It is used to track things like features, requirements, bugs, code defects, project issues, and risks
+
+
+
+Work Item Types
+
+  Epic
+
+    An Epic is a very large goal. Azure Boards is basically a project tracking board.
+
+  Feature
+
+    A Feature is a big part of an Epic. Azure Boards uses Features to break a very large goal into smaller sections.
+
+
+  User Story
+
+    A User Story explains something the user needs. A User Story is a small goal written from the user’s point of view.
+
+  Task
+
+    A Task is a smaller job that helps complete a User Story. A Task is the actual work someone does to complete a User Story.
+
+  Bug
+
+    A Bug is something broken in the app. A Bug is something broken or not working correctly in the project.
+
+
+
+
+Example
+
+Epic: Build a Map App
+
+  Feature: Add an Interactive Map
+
+    User Story: As a user, I want to click a marker and see more information
+
+      Task: Create the marker
+      Task: Add a click event
+      Task: Create the popup box
+      Task: Show information inside the popup
+      Task: Test that the popup works
+
+      Bug: Marker popup does not open when clicked
+
+
+    User Story: As a user, I want to zoom in and out of the map
+
+      Task: Add zoom controls
+      Task: Make sure zoom works with the mouse
+      Task: Test zoom on different browsers
+
+      Bug: Map zoom freezes sometimes
+
+
+  Feature: Add a Search Bar
+
+    User Story: As a user, I want to search for a location
+
+      Task: Create the search input
+      Task: Add a search button
+      Task: Connect search to map locations
+      Task: Move the map to the searched location
+
+      Bug: Search bar gives the wrong location
+
+
+  Feature: Improve Map Performance
+
+    User Story: As a user, I want the map to load quickly
+
+      Task: Reduce unnecessary map data
+      Task: Optimize marker loading
+      Task: Test map speed
+
+      Bug: Map loads too slowly
+
+
+Hierarchy
+
+Epic: Build user account system
+ └── Feature: Login and signup
+      └── User Story: User can log into account
+           └── Task: Create login form
+           └── Task: Validate password
+           └── Bug: Login button does not work
+
+
+
+
+
+
+
+A work item form usually has important fields like:
+
+  Title: The Title is the name of the work item.
+  
+  Assigned To: Assigned To shows who is responsible for the work
+  
+  State: State shows the current progress of the work item.
+  
+  Reason: Reason explains why the work item is in its current state.
+  
+  Area: Area tells what part of the project the work belongs to.
+  
+  Iteration: Iteration usually means the sprint or time period for the work.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
