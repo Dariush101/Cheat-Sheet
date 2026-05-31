@@ -1,0 +1,23 @@
+A new file is a file you created inside your project folder, but Git is not tracking it yet.
+
+Git can see the file, but Git is not watching it yet.
+
+
+We create new files because projects need files like:
+
+    index.html
+
+    style.css
+    
+    script.js
+    
+    README.md
+
+But after creating a file, we need to check if Git knows about it.
+
+That is why we use:
+
+  git status
+
+git status tells you what is happening in your Git project.
+
