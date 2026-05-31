@@ -1,0 +1,46 @@
+A repository is just a project folder.
+
+  It is the place where GitHub keeps all the files for one project.
+
+    Example:
+
+    my-map-project/
+      src/
+      package.json
+      README.md
+
+That whole folder is the repository.
+
+  Simple meaning:
+
+    A repository is your project’s home.
+
+
+
+It holds things like:
+
+  Your code
+
+  Your images
+
+  Your notes
+
+  Your settings
+
+  Your README
+
+
+Think of it like this:
+
+  Repository = project folder
+  GitHub = online place that stores that folder
+  Git = tool that tracks changes inside that folder
+
+So when someone says:
+
+  “Push your code to the repo”
+
+
+They mean:
+
+  “Upload your project changes to the project folder on GitHub.”
