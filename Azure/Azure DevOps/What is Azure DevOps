@@ -1,0 +1,68 @@
+Azure DevOps is Microsoft’s tool for managing the software development process.
+
+Azure DevOps is a platform for planning work, collaborating on code, building apps, testing, and deploying to production
+
+
+Azure DevOps helps developers take an idea and turn it into working software.
+
+  Planning tasks
+  
+  Storing code
+  
+  Tracking bugs
+  
+  Building the project
+  
+  Testing the project
+  
+  Deploying the project online
+
+
+
+
+The main parts of Azure DevOps
+
+  Azure Boards
+
+    This is for planning.
+
+    It is like a project checklist for a team.
+
+  
+  Azure Repos
+  
+    Store your code, use Git, make branches, and track changes
+
+
+  Azure Pipeline
+
+    It automatically checks and publishes your code after you upload it
+
+    It automates the stuff you would normally do by hand, like:
+
+      Checking if the app has errors
+
+      Making sure the app can run
+      
+      Running tests
+      
+      Uploading the app to the internet
+              
+
+  Azure Test Plans
+
+    This is for testing.
+    
+    Teams use it to check if the app works correctly before releasing it.
+
+
+  Azure Artifacts
+
+    This is for storing packages and shared code tools.
+    
+    You probably do not need this first as a beginner.
+
+
+
+
+
