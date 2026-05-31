@@ -19,5 +19,4 @@ That is why we use:
 
   git status
 
-git status tells you what is happening in your Git project.
-
+You are basically saying: I see these folders, but I am not tracking/saving them yet
