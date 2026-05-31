@@ -1,0 +1,20 @@
+Git History is the record of your project’s saved changes.
+
+Every time you make a commit, Git saves:
+
+  what changed
+
+  who changed it
+
+  when it changed
+
+  the commit message
+
+
+See the full commit history
+
+  git log
+
+Simple meaning:
+
+git log --oneline
