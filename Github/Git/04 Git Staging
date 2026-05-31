@@ -1,0 +1,19 @@
+Staging tells Git which files you want to save in your next commit.
+
+We stage files so we can choose exactly what gets saved.
+
+You might change 5 files, but only want to commit 2 of them.
+
+Example
+
+  1. Stage one file
+
+    git add index.html
+
+  2. Stage all changes:
+
+    git add --all
+
+  3. Unstage a file:
+
+    git restore --staged index.html
