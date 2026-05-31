@@ -1,1 +1,48 @@
+Azure Boards is a tool inside Azure DevOps that helps teams plan, track, and manage work.
+
+Teams use it to keep track of:
+
+  tasks
+  
+  bugs
+  
+  features
+  
+  user stories
+  
+  project progress
+  
+  who is working on what
+
+
+Main Parts of Azure Boards
+
+  Work Items
+
+  Boards
+
+  Backlogs
+
+  Sprints
+
+  Queries
+
+  Dashboards
+
+Azure Boards and GitHub
+
+  That means a task in Azure Boards can be linked to:
+
+    GitHub commits
+    
+    branches
+    
+    pull requests
+    
+    issues
+
+
+
+
+
 
