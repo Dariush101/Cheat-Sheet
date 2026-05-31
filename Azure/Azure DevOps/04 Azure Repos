@@ -1,0 +1,66 @@
+Azure Repos is the place in Azure DevOps where your team stores and manages code.
+
+What is it?
+
+Azure Repos is a code storage and version control tool.
+
+That means it helps you:
+  
+  Save your code
+  
+  Track changes over time
+  
+  Work with teammates
+  
+  Go back to older versions if something breaks
+
+
+If you are new and there is a coding folder then we use Clone the Repo
+
+  Cloning means downloading a copy of the project from Azure Repos onto your computer
+
+We use the git clone <repo-url> comman
+
+  git clone https://dev.azure.com/company/project/_git/repo-name
+
+
+To make a branch you will use this:
+
+  git checkout -b feature/map-sidebar
+
+
+To Upload your branch from your computer to Azure Repos
+
+  git push origin <branch-name>
+
+
+Before you start coding, update your project so you have the newest team changes.
+
+  git checkout main                          Go to the main branch
+  
+  git pull origin main                       Download the newest code
+  
+  git checkout -b feature/my-task            Create a new branch for your work
+
+  git branch -d old-branch-name              Once you are sure delete the old branch
+
+Sometime there will be conflicting merging issues. A merge conflict happens when, You and someone else changed the same part of the same file.
+
+You fix the file manually, then:
+
+  git add .
+
+  git commit -m "Resolve merge conflict"
+
+
+
+
+
+
+
+
+
+
+
+
+
