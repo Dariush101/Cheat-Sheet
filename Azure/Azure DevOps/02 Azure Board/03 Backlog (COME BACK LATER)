@@ -1,0 +1,40 @@
+A backlog is a prioritized list of work.
+
+A product backlog is the main list of work for the project.
+
+Example:
+
+  Build login page
+  
+  Create homepage
+  
+  Add map markers
+  
+  Fix search bug
+  
+  Add user profile
+
+
+
+A portfolio backlog is for bigger work.
+
+It groups smaller tasks under larger goals.
+
+Example:
+
+  Epic: Build User Account System
+  
+  Feature: Login
+  
+  Feature: Signup
+  
+  Feature: Profile Page
+
+
+Backlog Priority
+
+  The order of the backlog matters.
+
+  Items at the top are usually more important.
+
+
