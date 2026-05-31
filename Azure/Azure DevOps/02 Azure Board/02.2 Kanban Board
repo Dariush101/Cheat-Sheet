@@ -1,0 +1,25 @@
+Kanban board is like a digital board with task cards that move from “To Do” to “Done.”
+
+
+A card represents one work item.
+
+A card could be:
+  
+  a task
+  
+  a bug
+  
+  a user story
+  
+  a feature
+
+Columns show the stage of the work.
+
+
+WIP means Work in Progress.
+
+  A WIP limit controls how many tasks can be worked on at one time.
+
+A blocker is something stopping the task.
+
+
