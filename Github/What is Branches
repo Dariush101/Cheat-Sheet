@@ -18,3 +18,20 @@ When you have a main working project and if you want to make changes you make a 
 A branch is a safe place to experiment.
 
   You can try new code without destroying the version that already works.
+
+
+
+Where to find branches:
+
+  On GitHub, branches are inside your repository page.
+
+  Then look near the top-left of the files.
+
+  You should see something like:
+
+    main ▼
+
+      That dropdown is the branch menu.
+
+      Click it, and you can see your branches.
+
