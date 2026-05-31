@@ -1,0 +1,20 @@
+A branch is like a separate version of your project.
+
+  You use a branch when you want to work on something new without messing up your main project.
+
+  Think of it like this:
+
+    main branch = the safe working version
+
+    new branch = the testing/work area
+
+
+When you have a main working project and if you want to make changes you make a second branch
+
+  If it works, you can later add it back into your main project.
+
+  If it breaks, your main project is still safe.
+
+A branch is a safe place to experiment.
+
+  You can try new code without destroying the version that already works.
