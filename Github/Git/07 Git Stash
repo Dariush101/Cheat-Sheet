@@ -1,0 +1,16 @@
+git stash is like a temporary save button for your unfinished work.
+
+Developers use git stash when they need to stop working on something but do not want to lose their changes.
+
+
+Common reasons:
+  
+  You need to switch branches.
+  
+  You need to pull the newest code.
+  
+  You need to fix something urgent.
+  
+  Your work is not ready for a commit yet.
+
+git stash push ______
