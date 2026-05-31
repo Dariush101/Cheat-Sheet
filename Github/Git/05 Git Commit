@@ -1,0 +1,49 @@
+A commit saves your staged changes into Git history.
+
+
+It records:
+
+  what changed
+
+  when it changed
+
+  who changed it
+
+  a message explaining the change
+
+
+We commit so we can save versions of our project.
+
+This helps because you can:
+
+  look back at old changes
+
+  understand what you did
+
+  go back to an older version if something breaks
+
+(Oh to add to the git repo do git add ____)
+
+
+Commit the file
+
+  git commit -m "Add index page"
+
+To see past comits do:
+
+  git log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
